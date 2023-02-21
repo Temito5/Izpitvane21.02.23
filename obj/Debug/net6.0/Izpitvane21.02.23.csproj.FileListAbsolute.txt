@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\bin\Debug\net6.0\Izpitvane21.02.23.exe
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\bin\Debug\net6.0\Izpitvane21.02.23.deps.json
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\bin\Debug\net6.0\Izpitvane21.02.23.runtimeconfig.json
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\bin\Debug\net6.0\Izpitvane21.02.23.dll
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\bin\Debug\net6.0\Izpitvane21.02.23.pdb
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\obj\Debug\net6.0\Izpitvane21.02.23.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\obj\Debug\net6.0\Izpitvane21.02.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\obj\Debug\net6.0\Izpitvane21.02.23.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\obj\Debug\net6.0\Izpitvane21.02.23.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\obj\Debug\net6.0\Izpitvane21.02.23.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\obj\Debug\net6.0\Izpitvane21.02.23.dll
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\obj\Debug\net6.0\refint\Izpitvane21.02.23.dll
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\obj\Debug\net6.0\Izpitvane21.02.23.pdb
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\obj\Debug\net6.0\Izpitvane21.02.23.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Izpitvane21.02.23\obj\Debug\net6.0\ref\Izpitvane21.02.23.dll
